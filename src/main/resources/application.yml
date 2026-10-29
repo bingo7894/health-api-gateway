@@ -57,7 +57,7 @@ springdoc:
       - name: "1. Nutrition & Food Service"
         url: "/api/v1/nutrition/v3/api-docs"
       - name: "2. AI Vision Service"
-        url: "/api/v1/ai/openapi.json"
+        url: "/api/v1/ai/v3/api-docs"
       - name: "3. Auth & User Service"
         url: "/api/v1/auth/v3/api-docs"
       - name: "4. Health Sync Service"
